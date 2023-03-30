@@ -5,3 +5,18 @@
   color: #fff;
 }
 
+.fit-cover {
+}
+
+.d-block.w-100.fit-cover {
+}
+
+.img-fluid:hover {
+  transform: scale(1.05);
+}
+
+.btn:hover {
+  transform: scale(1.05);
+  filter: brightness(120%);
+}
+
